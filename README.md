@@ -1,0 +1,1 @@
+"# gerir-stock-loja-c-" 
